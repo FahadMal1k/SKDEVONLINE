@@ -10,9 +10,9 @@ export default function ContactMe () {
         <div className="flex justify-center">
           <p>Email: <span className="font-bold text-2xl hover:shadow-xl hover:shadow-orange-700   hover:text-orange-500">fahadpervez12@gmail.com</span></p>
         </div>
-        <div className="flex justify-center">
+        {/* <div className="flex justify-center">
           <p>Phone No: <span className="font-bold text-2xl hover:shadow-xl hover:shadow-orange-700  hover:text-orange-500">03332023154</span></p>
-        </div>
+        </div> */}
         </div>
 
         <div className="flex mt-4 space-x-4 items-center justify-center md:justify-center">
